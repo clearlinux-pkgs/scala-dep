@@ -1,6 +1,6 @@
 Name     : scala-dep
 Version  : 1
-Release  : 4
+Release  : 5
 URL      : http://repo1.maven.org/maven2
 Source1  : http://repo1.maven.org/maven2/biz/aQute/bnd/1.50.0/bnd-1.50.0.jar
 Source2  : http://repo1.maven.org/maven2/biz/aQute/bnd/1.50.0/bnd-1.50.0.pom
